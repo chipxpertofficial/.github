@@ -7,11 +7,15 @@ RTL-to-GDSII flow. Written to build real intuition, not just pass an exam.
 Maintained by the team at **[chipxpert.in](https://chipxpert.in/)** — a VLSI
 training institute. Everything here is free and MIT/CC0 licensed.
 
+### ▶ Try it live
+[**ChipXpert Lab**](https://lab.chipxpert.in/) — run Verilog & SystemVerilog in your browser: Icarus/Verilator simulation, Python **cocotb** and class-based SystemVerilog testbenches, Yosys synthesis, and **SymbiYosys formal** proofs. Free, no install, no signup.
+
 ---
 
 ### 📚 Start here
 | If you want to… | Go to |
 |---|---|
+| Run Verilog/SV in your browser | [ChipXpert Lab](https://lab.chipxpert.in/) — simulate · verify (cocotb) · synthesize · formal |
 | See worked Verilog/SV examples | [vlsi-verilog-examples](https://github.com/chipxpertofficial/vlsi-verilog-examples) · [digital-electronics-reference](https://github.com/chipxpertofficial/digital-electronics-reference) |
 | Build a project (B.Tech / M.Tech) | [btech-vlsi-projects](https://github.com/chipxpertofficial/btech-vlsi-projects) · [mtech-vlsi-projects](https://github.com/chipxpertofficial/mtech-vlsi-projects) |
 | Prepare for interviews | [vlsi-interview-prep](https://github.com/chipxpertofficial/vlsi-interview-prep) · [vlsi-glossary](https://github.com/chipxpertofficial/vlsi-glossary) |
